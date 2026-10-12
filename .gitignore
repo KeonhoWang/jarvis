@@ -1,0 +1,5 @@
+.env
+__pycache__
+*.pyc
+jarvis_memory.json
+jarvis_analytics.json
